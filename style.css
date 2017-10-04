@@ -1,0 +1,47 @@
+.ui.borderless.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.grad-background {
+  background: url('//cdn.shopify.com/s/files/1/1035/5187/t/5/assets/slide1.jpg?12738032654134160651') no-repeat center center fixed;
+  background-size: cover;
+  height: 400px;
+}
+
+.ui.centered.header{
+  padding: 190px;
+  color: white;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.ui.borderless.container{
+  margin:30px;
+  padding: 70px;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.orange-background {
+  background-color: orange;
+  height: 400px;
+  color: white;
+}
+
+.ui.centered.header.two{
+  padding: 10px;
+  font-size: 40px;
+  color: black;
+}
+
+.ui.centered.header.three{
+  padding: 1px;
+  font-size: 40px;
+}
+
+.grad-background3 {
+  background: url('https://image.freepik.com/free-photo/horizon-texture-aged-scene-weather_1088-693.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 400px;
+}
